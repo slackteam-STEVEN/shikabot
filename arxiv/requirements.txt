@@ -1,0 +1,3 @@
+slackbot
+boto3
+beautifulsoup4
